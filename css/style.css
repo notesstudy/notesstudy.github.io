@@ -1,0 +1,48 @@
+body{
+	font-size: 14px;
+	font-family: 'elianto', sans-serif;
+	font-weight: lighter;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+a{
+	color: inherit;
+}
+header li{
+	float: right;
+	padding: 0 20px 0 20px;
+	margin: 0;
+	display: inline;
+	text-align: center;
+}
+header nav{
+	margin-top: -40px;
+}
+h1{
+	margin-top: 20px;
+	margin-left: 25px;
+}
+#preview{
+	margin-top: 50px;
+	height: 300px;
+	border-top: 1px solid gray;
+}
+#info{
+	text-align: center;
+	width: 100%;
+}
+
+.icons li{
+	list-style: none;
+	margin-top: 30px;
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px 20px;
+	color: white;
+	border-radius: 50%;
+	transition: .5s;
+}
+.icons li:hover{
+	color: blue;
+	transition: .5s;
+}
