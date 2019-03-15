@@ -87,7 +87,7 @@ footer{
 	padding-top: 150px;
 	text-align: center;
 }
-#boxes a{
+#boxes a:hover{
 	color: blue;
 	transition: .5s;
 }
