@@ -2,11 +2,14 @@ body{
 	font-size: 14px;
 	font-family: 'elianto', sans-serif;
 	font-weight: lighter;
+	background: url('../img/back.jpg') no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
+	color: white;
 }
 a{
 	color: inherit;
+	text-decoration: none;
 }
 header li{
 	float: right;
@@ -30,6 +33,7 @@ h1{
 #info{
 	text-align: center;
 	width: 100%;
+	color: inherit;
 }
 
 .icons li{
@@ -45,4 +49,7 @@ h1{
 .icons li:hover{
 	color: blue;
 	transition: .5s;
+}
+#boxes h2{
+	text-align: center;
 }
