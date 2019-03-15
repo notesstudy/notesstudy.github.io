@@ -53,3 +53,23 @@ h1{
 #boxes h2{
 	text-align: center;
 }
+#boxes .ist{
+	float: left;
+	text-align: center;
+}
+#boxes .bs{
+	float: right;
+	text-align: center;
+}
+#boxes .ist2{
+	float: left;
+	text-align: center;
+}
+#boxes .et{
+	float: right;
+	text-align: center;
+}
+#boxes .health{
+	float: none;
+	text-align: center;
+}
